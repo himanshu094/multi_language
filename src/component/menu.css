@@ -1,0 +1,10 @@
+.menu-wrapper{
+  margin-top: 20px;
+}
+.menu-wrapper a{
+  padding: 20px;
+
+  text-decoration: none;
+  color: black;
+
+}
